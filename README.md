@@ -4,8 +4,8 @@ HCI Lab 07: Figma-to-website conversion.
 A responsive one-page site for a small bookshop and café in Gulberg, Lahore.
 
 - Figma design: https://www.figma.com/design/8X3PFzPAdX0SSAYFHDjKQU/HCI-Lab-07
-- Live site: _add your Vercel URL here_
-
+- Live site: https://shaigansaeed.github.io/Chai-and-Pages/
+- 
 ## Stack
 Semantic HTML5 + Tailwind CSS (CDN, no build step). Design tokens in `index.html` (`tailwind.config`) match the Figma `Tokens` variables.
 
